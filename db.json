@@ -2,15 +2,21 @@
   "posts": [
     {
       "id": 1,
-      "title": "First Blog Post",
-      "author": "Elvis",
-      "content": "This is the first blog post ever!"
+      "title": "My First Blog Post",
+      "content": "This is the content of my first blog post. I'm learning how to build a blog application!",
+      "author": "John Doe"
     },
     {
       "id": 2,
-      "title": "Second Blog Post",
-      "author": "Isabelle",
-      "content": "This is another post with different content."
+      "title": "JavaScript Basics",
+      "content": "Today I learned about variables, functions, and loops in JavaScript.",
+      "author": "Jane Smith"
+    },
+    {
+      "id": 3,
+      "title": "DOM Manipulation",
+      "content": "The Document Object Model (DOM) is how JavaScript interacts with HTML elements.",
+      "author": "John Doe"
     }
   ]
 }
